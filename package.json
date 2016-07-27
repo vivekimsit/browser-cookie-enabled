@@ -1,0 +1,38 @@
+{
+  "name": "browser-cookie-enabled",
+  "version": "1.0.0",
+  "description": "Get the cookie setting of a browser window.",
+  "license": "MIT",
+  "repository": "vivekimsit/browser-cookie-enabled",
+  "author": {
+    "name": "Vivek Poddar",
+    "email": "vivekimsit@gmail.com",
+    "url": "github.com/vivekimsit"
+  },
+ "bugs": {
+    "url": "https://github.com/vivekimsit/browser-cookie-enabled/issues"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "build": "browserify example/index.js -o example/build.js -dv"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "browser",
+    "cookie",
+    "navigator",
+    "promise"
+  ],
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true,
+    "space": 2
+  }
+}
