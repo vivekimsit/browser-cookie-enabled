@@ -1,7 +1,7 @@
 {
   "name": "browser-cookie-enabled",
   "version": "1.0.0",
-  "description": "Get the cookie setting of a browser window.",
+  "description": "Get the cookie setting of browser.",
   "license": "MIT",
   "repository": "vivekimsit/browser-cookie-enabled",
   "author": {
