@@ -1,5 +1,4 @@
-# TODO [![Build Status](TODO)](TODO)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+# browser-cookie-enabled [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 > Get the cookie setting of browser
 
@@ -17,4 +16,4 @@ cacheEnabled().then(res => {
 
 ## License
 
-MIT © [TODO](TODO)
+MIT © [Vivek Poddar](http://github.com/vivekimsit)
